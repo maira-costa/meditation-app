@@ -1,4 +1,4 @@
-# Meditaiton App
+# Meditation App
 
 Project developed from [FreeCodeCamp React Native & Expo Router Course](https://www.youtube.com/watch?v=9UKCv9T_rIo&t=102s).
 
